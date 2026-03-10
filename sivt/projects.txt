@@ -1,2 +1,3 @@
 Programovali jsme kalkulačku, bojové hry, tvořili repozitáře a pracovali s githubem.
-Také jsme vytvářeli gambu s bendami v csku, nebo zoo se zvířaty, a také tvorba a úpravá webovek
+Také jsme vytvářeli gambu s bednami ve hře cs:go, nebo zoo se zvířaty, a také tvorba a úprava webovek.
+Psaní testů a tvoření praktických úloh.
