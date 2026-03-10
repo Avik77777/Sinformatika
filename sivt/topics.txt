@@ -1,1 +1,1 @@
-V semináři jsme probrali verzovací systémy, OOP, operační systémy a programovací jazyky, hlavně C++, a poté webové stránky
+V semináři jsme probrali verzovací systémy, operační systémy a programovací jazyky, hlavně C++, a poté webové stránky
