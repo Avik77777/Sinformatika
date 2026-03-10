@@ -1,1 +1,1 @@
-v repozitáři bude textové soubory, popisující témata, která jsme v semináři probírali a práce, které jsem udělali
+v repozitáři bude textové soubory, popisující témata, která jsme v semináři probírali a práce, které jsme udělali
