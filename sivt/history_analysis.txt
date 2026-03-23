@@ -1,0 +1,4 @@
+-kolik commitů? -Asi 11, použila jsem git commit --oneline
+-první commit bylo vytvoření větve topics, projects, zjistila jsem to před giz log --reverse
+-HEAD značí na jakém commitu zrovna jsem
+-git reset --hard - maže neuložené změny, přesune HEAD na zadaný commit, změny budou nevratné a ztraceny
